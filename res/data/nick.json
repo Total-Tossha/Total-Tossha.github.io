@@ -1,0 +1,989 @@
+{
+  "8 June 2026": {
+    "Item": "2 Jade Mandibles",
+    "Location": "Salt Flats",
+    "Region": "Crystal Desert",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "15 June 2026": {
+    "Item": "2 Maguuma Manes",
+    "Location": "Silverwood",
+    "Region": "Maguuma Jungle",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "22 June 2026": {
+    "Item": "1 Skull Juju",
+    "Location": "The Eternal Grove (explorable area)",
+    "Region": "Echovald Forest",
+    "Campaign": "Factions",
+    "Map": "Map"
+  },
+  "29 June 2026": {
+    "Item": "3 Mandragor Swamproots",
+    "Location": "Lahtenda Bog",
+    "Region": "Istan",
+    "Campaign": "Nightfall",
+    "Map": "Map"
+  },
+  "6 July 2026": {
+    "Item": "1 Bottle of Vabbian Wine",
+    "Location": "Vehtendi Valley",
+    "Region": "Vabbi",
+    "Campaign": "Nightfall",
+    "Map": "Map"
+  },
+  "13 July 2026": {
+    "Item": "2 Weaver Legs",
+    "Location": "Magus Stones",
+    "Region": "Tarnished Coast",
+    "Campaign": "Eye of the North",
+    "Map": "Map"
+  },
+  "20 July 2026": {
+    "Item": "1 Topaz Crest",
+    "Location": "Diviner's Ascent",
+    "Region": "Crystal Desert",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "27 July 2026": {
+    "Item": "2 Rot Wallow Tusks",
+    "Location": "Pongmei Valley",
+    "Region": "Kaineng City",
+    "Campaign": "Factions",
+    "Map": "Map"
+  },
+  "3 August 2026": {
+    "Item": "2 Frostfire Fangs",
+    "Location": "Anvil Rock",
+    "Region": "Northern Shiverpeaks",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "10 August 2026": {
+    "Item": "1 Demonic Relic",
+    "Location": "The Ruptured Heart",
+    "Region": "The Desolation",
+    "Campaign": "Nightfall",
+    "Map": "Map"
+  },
+  "17 August 2026": {
+    "Item": "2 Abnormal Seeds",
+    "Location": "Talmark Wilderness",
+    "Region": "Kryta",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "24 August 2026": {
+    "Item": "1 Diamond Djinn Essence",
+    "Location": "The Hidden City of Ahdashim",
+    "Region": "Vabbi",
+    "Campaign": "Nightfall",
+    "Map": "Map"
+  },
+  "31 August 2026": {
+    "Item": "2 Forgotten Seals",
+    "Location": "Vulture Drifts",
+    "Region": "Crystal Desert",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "7 September 2026": {
+    "Item": "5 Copper Crimson Skull Coins",
+    "Location": "Kinya Province",
+    "Region": "Shing Jea Island",
+    "Campaign": "Factions",
+    "Map": "Map"
+  },
+  "14 September 2026": {
+    "Item": "3 Mossy Mandibles",
+    "Location": "Ettin's Back",
+    "Region": "Maguuma Jungle",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "21 September 2026": {
+    "Item": "2 Enslavement Stones",
+    "Location": "Grenth's Footprint",
+    "Region": "Southern Shiverpeaks",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "28 September 2026": {
+    "Item": "5 Elonian Leather Squares",
+    "Location": "Jahai Bluffs",
+    "Region": "Kourna",
+    "Campaign": "Nightfall",
+    "Map": "Map"
+  },
+  "5 October 2026": {
+    "Item": "2 Cobalt Talons",
+    "Location": "Vehjin Mines",
+    "Region": "Vabbi",
+    "Campaign": "Nightfall",
+    "Map": "Map"
+  },
+  "12 October 2026": {
+    "Item": "1 Maguuma Spider Web",
+    "Location": "Reed Bog",
+    "Region": "Maguuma Jungle",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "19 October 2026": {
+    "Item": "5 Forgotten Trinket Boxes",
+    "Location": "Minister Cho's Estate (explorable area)",
+    "Region": "Shing Jea Island",
+    "Campaign": "Factions",
+    "Map": "Map"
+  },
+  "26 October 2026": {
+    "Item": "3 Icy Humps",
+    "Location": "Iron Horse Mine",
+    "Region": "Northern Shiverpeaks",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "2 November 2026": {
+    "Item": "1 Sandblasted Lodestone",
+    "Location": "The Shattered Ravines",
+    "Region": "The Desolation",
+    "Campaign": "Nightfall",
+    "Map": "Map"
+  },
+  "9 November 2026": {
+    "Item": "3 Black Pearls",
+    "Location": "Archipelagos",
+    "Region": "The Jade Sea",
+    "Campaign": "Factions",
+    "Map": "Map"
+  },
+  "16 November 2026": {
+    "Item": "3 Insect Carapaces",
+    "Location": "Marga Coast",
+    "Region": "Kourna",
+    "Campaign": "Nightfall",
+    "Map": "Map"
+  },
+  "23 November 2026": {
+    "Item": "3 Mergoyle Skulls",
+    "Location": "Watchtower Coast",
+    "Region": "Kryta",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "30 November 2026": {
+    "Item": "3 Decayed Orr Emblems",
+    "Location": "Cursed Lands",
+    "Region": "Kryta",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "7 December 2026": {
+    "Item": "5 Tempered Glass Vials",
+    "Location": "Mourning Veil Falls",
+    "Region": "Echovald Forest",
+    "Campaign": "Factions",
+    "Map": "Map"
+  },
+  "14 December 2026": {
+    "Item": "3 Scorched Lodestones",
+    "Location": "Old Ascalon",
+    "Region": "Ascalon",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "21 December 2026": {
+    "Item": "1 Water Djinn Essence",
+    "Location": "Turai's Procession",
+    "Region": "The Desolation",
+    "Campaign": "Nightfall",
+    "Map": "Map"
+  },
+  "28 December 2026": {
+    "Item": "1 Guardian Moss",
+    "Location": "Maishang Hills",
+    "Region": "The Jade Sea",
+    "Campaign": "Factions",
+    "Map": "Map"
+  },
+  "4 January 2027": {
+    "Item": "6 Dwarven Ales",
+    "Location": "The Floodplain of Mahnkelon",
+    "Region": "Kourna",
+    "Campaign": "Nightfall",
+    "Map": "Map"
+  },
+  "11 January 2027": {
+    "Item": "2 Amphibian Tongues",
+    "Location": "Sparkfly Swamp",
+    "Region": "Tarnished Coast",
+    "Campaign": "Eye of the North",
+    "Map": "Map"
+  },
+  "18 January 2027": {
+    "Item": "2 Alpine Seeds",
+    "Location": "Frozen Forest",
+    "Region": "Southern Shiverpeaks",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "25 January 2027": {
+    "Item": "2 Tangled Seeds",
+    "Location": "Dry Top",
+    "Region": "Maguuma Jungle",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "1 February 2027": {
+    "Item": "3 Stolen Supplies",
+    "Location": "Jaya Bluffs",
+    "Region": "Shing Jea Island",
+    "Campaign": "Factions",
+    "Map": "Map"
+  },
+  "8 February 2027": {
+    "Item": "1 Pahnai Salad",
+    "Location": "Plains of Jarin",
+    "Region": "Istan",
+    "Campaign": "Nightfall",
+    "Map": "Map"
+  },
+  "15 February 2027": {
+    "Item": "3 Vermin Hides",
+    "Location": "Xaquang Skyway",
+    "Region": "Kaineng City",
+    "Campaign": "Factions",
+    "Map": "Map"
+  },
+  "22 February 2027": {
+    "Item": "1 Roaring Ether Heart",
+    "Location": "The Mirror of Lyss",
+    "Region": "Vabbi",
+    "Campaign": "Nightfall",
+    "Map": "Map"
+  },
+  "1 March 2027": {
+    "Item": "3 Leathery Claws",
+    "Location": "Ascalon Foothills",
+    "Region": "Ascalon",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "8 March 2027": {
+    "Item": "1 Azure Crest",
+    "Location": "Unwaking Waters (explorable area)",
+    "Region": "The Jade Sea",
+    "Campaign": "Factions",
+    "Map": "Map"
+  },
+  "15 March 2027": {
+    "Item": "1 Jotun Pelt",
+    "Location": "Bjora Marches",
+    "Region": "Far Shiverpeaks",
+    "Campaign": "Eye of the North",
+    "Map": "Map"
+  },
+  "22 March 2027": {
+    "Item": "2 Heket Tongues",
+    "Location": "Dejarin Estate",
+    "Region": "Kourna",
+    "Campaign": "Nightfall",
+    "Map": "Map"
+  },
+  "29 March 2027": {
+    "Item": "5 Mountain Troll Tusks",
+    "Location": "Talus Chute",
+    "Region": "Southern Shiverpeaks",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "5 April 2027": {
+    "Item": "3 Vials of Ink",
+    "Location": "Shenzun Tunnels",
+    "Region": "Kaineng City",
+    "Campaign": "Factions",
+    "Map": "Map"
+  },
+  "12 April 2027": {
+    "Item": "3 Kournan Pendants",
+    "Location": "Gandara, the Moon Fortress",
+    "Region": "Kourna",
+    "Campaign": "Nightfall",
+    "Map": "Map"
+  },
+  "19 April 2027": {
+    "Item": "3 Singed Gargoyle Skulls",
+    "Location": "Diessa Lowlands",
+    "Region": "Ascalon",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "26 April 2027": {
+    "Item": "3 Dredge Incisors",
+    "Location": "Melandru's Hope",
+    "Region": "Echovald Forest",
+    "Campaign": "Factions",
+    "Map": "Map"
+  },
+  "3 May 2027": {
+    "Item": "3 Stone Summit Badges",
+    "Location": "Tasca's Demise",
+    "Region": "Southern Shiverpeaks",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "10 May 2027": {
+    "Item": "3 Krait Skins",
+    "Location": "Arbor Bay",
+    "Region": "Tarnished Coast",
+    "Campaign": "Eye of the North",
+    "Map": "Map"
+  },
+  "17 May 2027": {
+    "Item": "2 Inscribed Shards",
+    "Location": "Joko's Domain",
+    "Region": "The Desolation",
+    "Campaign": "Nightfall",
+    "Map": "Map"
+  },
+  "24 May 2027": {
+    "Item": "3 Feathered Scalps",
+    "Location": "Sunqua Vale",
+    "Region": "Shing Jea Island",
+    "Campaign": "Factions",
+    "Map": "Map"
+  },
+  "31 May 2027": {
+    "Item": "3 Mummy Wrappings",
+    "Location": "The Sulfurous Wastes",
+    "Region": "The Desolation",
+    "Campaign": "Nightfall",
+    "Map": "Map"
+  },
+  "7 June 2027": {
+    "Item": "2 Shadowy Remnants",
+    "Location": "The Black Curtain",
+    "Region": "Kryta",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "14 June 2027": {
+    "Item": "3 Ancient Kappa Shells",
+    "Location": "The Undercity",
+    "Region": "Kaineng City",
+    "Campaign": "Factions",
+    "Map": "Map"
+  },
+  "21 June 2027": {
+    "Item": "1 Geode",
+    "Location": "Yatendi Canyons",
+    "Region": "Vabbi",
+    "Campaign": "Nightfall",
+    "Map": "Map"
+  },
+  "28 June 2027": {
+    "Item": "2 Fibrous Mandragor Roots",
+    "Location": "Grothmar Wardowns",
+    "Region": "Charr Homelands",
+    "Campaign": "Eye of the North",
+    "Map": "Map"
+  },
+  "5 July 2027": {
+    "Item": "3 Gruesome Ribcages",
+    "Location": "Dragon's Gullet",
+    "Region": "Ascalon",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "12 July 2027": {
+    "Item": "2 Kraken Eyes",
+    "Location": "Boreas Seabed (explorable area)",
+    "Region": "The Jade Sea",
+    "Campaign": "Factions",
+    "Map": "Map"
+  },
+  "19 July 2027": {
+    "Item": "3 Bog Skale Fins",
+    "Location": "Scoundrel's Rise",
+    "Region": "Kryta",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "26 July 2027": {
+    "Item": "2 Sentient Spores",
+    "Location": "Sunward Marches",
+    "Region": "Kourna",
+    "Campaign": "Nightfall",
+    "Map": "Map"
+  },
+  "2 August 2027": {
+    "Item": "2 Ancient Eyes",
+    "Location": "Sage Lands",
+    "Region": "Maguuma Jungle",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "9 August 2027": {
+    "Item": "3 Copper Shillings",
+    "Location": "Cliffs of Dohjok",
+    "Region": "Istan",
+    "Campaign": "Nightfall",
+    "Map": "Map"
+  },
+  "16 August 2027": {
+    "Item": "3 Frigid Mandragor Husks",
+    "Location": "Norrhart Domains",
+    "Region": "Far Shiverpeaks",
+    "Campaign": "Eye of the North",
+    "Map": "Map"
+  },
+  "23 August 2027": {
+    "Item": "3 Bolts of Linen",
+    "Location": "Traveler's Vale",
+    "Region": "Northern Shiverpeaks",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "30 August 2027": {
+    "Item": "3 Charr Carvings",
+    "Location": "Flame Temple Corridor",
+    "Region": "Ascalon",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "6 September 2027": {
+    "Item": "3 Red Iris Flowers",
+    "Location": "Regent Valley",
+    "Region": "Ascalon",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "13 September 2027": {
+    "Item": "3 Feathered Avicara Scalps",
+    "Location": "Mineral Springs",
+    "Region": "Southern Shiverpeaks",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "20 September 2027": {
+    "Item": "2 Margonite Masks",
+    "Location": "Poisoned Outcrops",
+    "Region": "The Desolation",
+    "Campaign": "Nightfall",
+    "Map": "Map"
+  },
+  "27 September 2027": {
+    "Item": "2 Quetzal Crests",
+    "Location": "Alcazia Tangle",
+    "Region": "Tarnished Coast",
+    "Campaign": "Eye of the North",
+    "Map": "Map"
+  },
+  "4 October 2027": {
+    "Item": "3 Plague Idols",
+    "Location": "Wajjun Bazaar",
+    "Region": "Kaineng City",
+    "Campaign": "Factions",
+    "Map": "Map"
+  },
+  "11 October 2027": {
+    "Item": "2 Azure Remains",
+    "Location": "Dreadnought's Drift",
+    "Region": "Southern Shiverpeaks",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "18 October 2027": {
+    "Item": "1 Mandragor Root Cake",
+    "Location": "Arkjok Ward",
+    "Region": "Kourna",
+    "Campaign": "Nightfall",
+    "Map": "Map"
+  },
+  "25 October 2027": {
+    "Item": "1 Mahgo Claw",
+    "Location": "Perdition Rock",
+    "Region": "Ring of Fire Islands",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "1 November 2027": {
+    "Item": "5 Mantid Pincers",
+    "Location": "Saoshang Trail",
+    "Region": "Shing Jea Island",
+    "Campaign": "Factions",
+    "Map": "Map"
+  },
+  "8 November 2027": {
+    "Item": "3 Sentient Seeds",
+    "Location": "Fahranur, The First City",
+    "Region": "Istan",
+    "Campaign": "Nightfall",
+    "Map": "Map"
+  },
+  "15 November 2027": {
+    "Item": "2 Stone Grawl Necklaces",
+    "Location": "Sacnoth Valley",
+    "Region": "Charr Homelands",
+    "Campaign": "Eye of the North",
+    "Map": "Map"
+  },
+  "22 November 2027": {
+    "Item": "1 Herring",
+    "Location": "Twin Serpent Lakes",
+    "Region": "Kryta",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "29 November 2027": {
+    "Item": "3 Naga Skins",
+    "Location": "Mount Qinkai",
+    "Region": "The Jade Sea",
+    "Campaign": "Factions",
+    "Map": "Map"
+  },
+  "6 December 2027": {
+    "Item": "1 Gloom Seed",
+    "Location": "The Falls",
+    "Region": "Maguuma Jungle",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "13 December 2027": {
+    "Item": "1 Charr Hide",
+    "Location": "The Breach",
+    "Region": "Ascalon",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "20 December 2027": {
+    "Item": "1 Ruby Djinn Essence",
+    "Location": "The Alkali Pan",
+    "Region": "The Desolation",
+    "Campaign": "Nightfall",
+    "Map": "Map"
+  },
+  "27 December 2027": {
+    "Item": "2 Thorny Carapaces",
+    "Location": "Majesty's Rest",
+    "Region": "Kryta",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "3 January 2028": {
+    "Item": "3 Bone Charms",
+    "Location": "Rhea's Crater",
+    "Region": "The Jade Sea",
+    "Campaign": "Factions",
+    "Map": "Map"
+  },
+  "10 January 2028": {
+    "Item": "3 Modniir Manes",
+    "Location": "Varajar Fells",
+    "Region": "Far Shiverpeaks",
+    "Campaign": "Eye of the North",
+    "Map": "Map"
+  },
+  "17 January 2028": {
+    "Item": "3 Superb Charr Carvings",
+    "Location": "Dalada Uplands",
+    "Region": "Charr Homelands",
+    "Campaign": "Eye of the North",
+    "Map": "Map"
+  },
+  "24 January 2028": {
+    "Item": "5 Rolls of Parchment",
+    "Location": "Zen Daijun (explorable area)",
+    "Region": "Shing Jea Island",
+    "Campaign": "Factions",
+    "Map": "Map"
+  },
+  "31 January 2028": {
+    "Item": "2 Roaring Ether Claws",
+    "Location": "Garden of Seborhin",
+    "Region": "Vabbi",
+    "Campaign": "Nightfall",
+    "Map": "Map"
+  },
+  "7 February 2028": {
+    "Item": "3 Branches of Juni Berries",
+    "Location": "Bukdek Byway",
+    "Region": "Kaineng City",
+    "Campaign": "Factions",
+    "Map": "Map"
+  },
+  "14 February 2028": {
+    "Item": "3 Shiverpeak Manes",
+    "Location": "Deldrimor Bowl",
+    "Region": "Northern Shiverpeaks",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "21 February 2028": {
+    "Item": "3 Fetid Carapaces",
+    "Location": "Eastern Frontier",
+    "Region": "Ascalon",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "28 February 2028": {
+    "Item": "2 Moon Shells",
+    "Location": "Gyala Hatchery (explorable area)",
+    "Region": "The Jade Sea",
+    "Campaign": "Factions",
+    "Map": "Map"
+  },
+  "6 March 2028": {
+    "Item": "1 Massive Jawbone",
+    "Location": "The Arid Sea",
+    "Region": "Crystal Desert",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "13 March 2028": {
+    "Item": "1 Chromatic Scale",
+    "Location": "Ice Cliff Chasms",
+    "Region": "Far Shiverpeaks",
+    "Campaign": "Eye of the North",
+    "Map": "Map"
+  },
+  "20 March 2028": {
+    "Item": "3 Mursaat Tokens",
+    "Location": "Ice Floe",
+    "Region": "Southern Shiverpeaks",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "27 March 2028": {
+    "Item": "1 Sentient Lodestone",
+    "Location": "Bahdok Caverns",
+    "Region": "Kourna",
+    "Campaign": "Nightfall",
+    "Map": "Map"
+  },
+  "3 April 2028": {
+    "Item": "3 Jungle Troll Tusks",
+    "Location": "Tangle Root",
+    "Region": "Maguuma Jungle",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "10 April 2028": {
+    "Item": "1 Sapphire Djinn Essence",
+    "Location": "Resplendent Makuun",
+    "Region": "Vabbi",
+    "Campaign": "Nightfall",
+    "Map": "Map"
+  },
+  "17 April 2028": {
+    "Item": "1 Stone Carving",
+    "Location": "Arborstone (explorable area)",
+    "Region": "Echovald Forest",
+    "Campaign": "Factions",
+    "Map": "Map"
+  },
+  "24 April 2028": {
+    "Item": "3 Feathered Caromi Scalps",
+    "Location": "North Kryta Province",
+    "Region": "Kryta",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "1 May 2028": {
+    "Item": "1 Pillaged Goods",
+    "Location": "Holdings of Chokhin",
+    "Region": "Vabbi",
+    "Campaign": "Nightfall",
+    "Map": "Map"
+  },
+  "8 May 2028": {
+    "Item": "1 Gold Crimson Skull Coin",
+    "Location": "Haiju Lagoon",
+    "Region": "Shing Jea Island",
+    "Campaign": "Factions",
+    "Map": "Map"
+  },
+  "15 May 2028": {
+    "Item": "3 Jade Bracelets",
+    "Location": "Tahnnakai Temple (explorable area)",
+    "Region": "Kaineng City",
+    "Campaign": "Factions",
+    "Map": "Map"
+  },
+  "22 May 2028": {
+    "Item": "2 Minotaur Horns",
+    "Location": "Prophet's Path",
+    "Region": "Crystal Desert",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "29 May 2028": {
+    "Item": "2 Frosted Griffon Wings",
+    "Location": "Snake Dance",
+    "Region": "Southern Shiverpeaks",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "5 June 2028": {
+    "Item": "2 Silver Bullion Coins",
+    "Location": "Mehtani Keys",
+    "Region": "Istan",
+    "Campaign": "Nightfall",
+    "Map": "Map"
+  },
+  "12 June 2028": {
+    "Item": "1 Truffle",
+    "Location": "Morostav Trail",
+    "Region": "Echovald Forest",
+    "Campaign": "Factions",
+    "Map": "Map"
+  },
+  "19 June 2028": {
+    "Item": "3 Skelk Claws",
+    "Location": "Verdant Cascades",
+    "Region": "Tarnished Coast",
+    "Campaign": "Eye of the North",
+    "Map": "Map"
+  },
+  "26 June 2028": {
+    "Item": "2 Dessicated Hydra Claws",
+    "Location": "The Scar",
+    "Region": "Crystal Desert",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "3 July 2028": {
+    "Item": "3 Frigid Hearts",
+    "Location": "Spearhead Peak",
+    "Region": "Southern Shiverpeaks",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "10 July 2028": {
+    "Item": "3 Celestial Essences",
+    "Location": "Nahpui Quarter (explorable area)",
+    "Region": "Kaineng City",
+    "Campaign": "Factions",
+    "Map": "Map"
+  },
+  "17 July 2028": {
+    "Item": "1 Phantom Residue",
+    "Location": "Lornar's Pass",
+    "Region": "Southern Shiverpeaks",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "24 July 2028": {
+    "Item": "1 Drake Kabob",
+    "Location": "Issnur Isles",
+    "Region": "Istan",
+    "Campaign": "Nightfall",
+    "Map": "Map"
+  },
+  "31 July 2028": {
+    "Item": "3 Amber Chunks",
+    "Location": "Ferndale",
+    "Region": "Echovald Forest",
+    "Campaign": "Factions",
+    "Map": "Map"
+  },
+  "7 August 2028": {
+    "Item": "2 Glowing Hearts",
+    "Location": "Stingray Strand",
+    "Region": "Kryta",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "14 August 2028": {
+    "Item": "5 Saurian Bones",
+    "Location": "Riven Earth",
+    "Region": "Tarnished Coast",
+    "Campaign": "Eye of the North",
+    "Map": "Map"
+  },
+  "21 August 2028": {
+    "Item": "2 Behemoth Hides",
+    "Location": "Wilderness of Bahdza",
+    "Region": "Vabbi",
+    "Campaign": "Nightfall",
+    "Map": "Map"
+  },
+  "28 August 2028": {
+    "Item": "1 Luminous Stone",
+    "Location": "Crystal Overlook",
+    "Region": "The Desolation",
+    "Campaign": "Nightfall",
+    "Map": "Map"
+  },
+  "4 September 2028": {
+    "Item": "3 Intricate Grawl Necklaces",
+    "Location": "Witman's Folly",
+    "Region": "Southern Shiverpeaks",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "11 September 2028": {
+    "Item": "3 Jadeite Shards",
+    "Location": "Shadow's Passage",
+    "Region": "Kaineng City",
+    "Campaign": "Factions",
+    "Map": "Map"
+  },
+  "18 September 2028": {
+    "Item": "1 Gold Doubloon",
+    "Location": "Barbarous Shore",
+    "Region": "Kourna",
+    "Campaign": "Nightfall",
+    "Map": "Map"
+  },
+  "25 September 2028": {
+    "Item": "2 Shriveled Eyes",
+    "Location": "Skyward Reach",
+    "Region": "Crystal Desert",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "2 October 2028": {
+    "Item": "2 Icy Lodestones",
+    "Location": "Icedome",
+    "Region": "Southern Shiverpeaks",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "9 October 2028": {
+    "Item": "1 Keen Oni Talon",
+    "Location": "Silent Surf",
+    "Region": "The Jade Sea",
+    "Campaign": "Factions",
+    "Map": "Map"
+  },
+  "16 October 2028": {
+    "Item": "2 Hardened Humps",
+    "Location": "Nebo Terrace",
+    "Region": "Kryta",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "23 October 2028": {
+    "Item": "2 Piles of Elemental Dust",
+    "Location": "Drakkar Lake",
+    "Region": "Far Shiverpeaks",
+    "Campaign": "Eye of the North",
+    "Map": "Map"
+  },
+  "30 October 2028": {
+    "Item": "3 Naga Hides",
+    "Location": "Panjiang Peninsula",
+    "Region": "Shing Jea Island",
+    "Campaign": "Factions",
+    "Map": "Map"
+  },
+  "6 November 2028": {
+    "Item": "3 Spiritwood Planks",
+    "Location": "Griffon's Mouth",
+    "Region": "Northern Shiverpeaks",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "13 November 2028": {
+    "Item": "1 Stormy Eye",
+    "Location": "Pockmark Flats",
+    "Region": "Ascalon",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "20 November 2028": {
+    "Item": "3 Skree Wings",
+    "Location": "Forum Highlands",
+    "Region": "Vabbi",
+    "Campaign": "Nightfall",
+    "Map": "Map"
+  },
+  "27 November 2028": {
+    "Item": "3 Soul Stones",
+    "Location": "Raisu Palace (explorable area)",
+    "Region": "Kaineng City",
+    "Campaign": "Factions",
+    "Map": "Map"
+  },
+  "4 December 2028": {
+    "Item": "1 Spiked Crest",
+    "Location": "Tears of the Fallen",
+    "Region": "Kryta",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "11 December 2028": {
+    "Item": "1 Dragon Root",
+    "Location": "Drazach Thicket",
+    "Region": "Echovald Forest",
+    "Campaign": "Factions",
+    "Map": "Map"
+  },
+  "18 December 2028": {
+    "Item": "3 Berserker Horns",
+    "Location": "Jaga Moraine",
+    "Region": "Far Shiverpeaks",
+    "Campaign": "Eye of the North",
+    "Map": "Map"
+  },
+  "25 December 2028": {
+    "Item": "1 Behemoth Jaw",
+    "Location": "Mamnoon Lagoon",
+    "Region": "Maguuma Jungle",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "1 January 2029": {
+    "Item": "1 Bowl of Skalefin Soup",
+    "Location": "Zehlon Reach",
+    "Region": "Istan",
+    "Campaign": "Nightfall",
+    "Map": "Map"
+  },
+  "8 January 2029": {
+    "Item": "2 Forest Minotaur Horns",
+    "Location": "Kessex Peak",
+    "Region": "Kryta",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "15 January 2029": {
+    "Item": "3 Putrid Cysts",
+    "Location": "Sunjiang District (explorable area)",
+    "Region": "Kaineng City",
+    "Campaign": "Factions",
+    "Map": "Map"
+  },
+  "22 January 2029": {
+    "Item": "2 Jade Mandibles",
+    "Location": "Salt Flats",
+    "Region": "Crystal Desert",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "29 January 2029": {
+    "Item": "2 Maguuma Manes",
+    "Location": "Silverwood",
+    "Region": "Maguuma Jungle",
+    "Campaign": "Prophecies",
+    "Map": "Map"
+  },
+  "5 February 2029": {
+    "Item": "1 Skull Juju",
+    "Location": "The Eternal Grove (explorable area)",
+    "Region": "Echovald Forest",
+    "Campaign": "Factions",
+    "Map": "Map"
+  },
+  "12 February 2029": {
+    "Item": "3 Mandragor Swamproots",
+    "Location": "Lahtenda Bog",
+    "Region": "Istan",
+    "Campaign": "Nightfall",
+    "Map": "Map"
+  }
+}
